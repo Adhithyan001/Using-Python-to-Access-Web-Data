@@ -1,21 +1,21 @@
 This file contains the actual data for your assignment - good luck!
 
 
-2221 Why should you learn to write programs?
+Why should you learn to write programs?
 
 Writing programs (or programming) is a very creative 
-981 and rewarding activity.  You can write programs for 7804
-many reasons, ranging from making your living to solving
+and rewarding activity.  You can write programs for 
+8983 many reasons, ranging from making your living to solving
 a difficult data analysis problem to having fun to helping
-8361 someone else solve a problem.  This book assumes that 
+someone else solve a problem.  This book assumes that 
 everyone needs to know how to program, and that once 
-you know how to program you will figure out what you want 
+7081 you know how to program you will figure out what you want 
 to do with your newfound skills.  
-
+2964 
 We are surrounded in our daily lives with computers ranging 
-5069 from laptops to cell phones.  We can think of these computers
-as 904 our 5341 personal 7892 assistants who can take care of many things
- on our behalf.  The hardware in our current-day computers 
+from laptops to cell phones.  We can think of these computers
+as our personal assistants who can take care of many things
+on our behalf.  The hardware in our current-day computers 
 is essentially built to continuously ask us the question, 
 What would you like me to do next?
 
@@ -23,34 +23,34 @@ Programmers add an operating system and a set of applications
 to the hardware and we end up with a Personal Digital
 Assistant that is quite helpful and capable of helping
 us do many different things.
-
+2232 218 5620
 Our computers are fast and have vast amounts of memory and 
 could be very helpful to us if we only knew the language to
 speak to explain to the computer what we would like it to 
-do next.  If we knew this language, we could tell the 
-computer 1133 to 281 do 7616 tasks on our behalf that were repetitive.  
- Interestingly, the kinds of things computers can do best
+7951 do next.  If we knew this language, we could tell the 4236
+computer to do tasks on our behalf that were repetitive.  
+Interestingly, the kinds of things computers can do best
 are often the kinds of things that we humans find boring
 and mind-numbing.
 
 For example, look at the first three paragraphs of this
 chapter and tell me the most commonly used word and how
 many times the word is used.  While you were able to read
-481 and understand the words in a few seconds, counting them 3741
+and understand the words in a few seconds, counting them
 is almost painful because it is not the kind of problem 
 that human minds are designed to solve.  For a computer
-1800 the opposite is true, reading and understanding text 559
+the opposite is true, reading and understanding text 
 from a piece of paper is hard for a computer to do 
 but counting the words and telling you how many times
 the most used word was used is very easy for the
 computer:
 
 Our personal information analysis assistant quickly 
-told us that the word to was used sixteen times in the
-first three paragraphs of this chapter.
+told 9276 us 765 that 6365 the word to was used sixteen times in the
+ first three paragraphs of this chapter.
 
-9226 This very fact that computers are good at things 
-that humans are not is why you need to become
+This very fact that computers are good at things 
+1224 that humans are not is why you need to become
 skilled at talking computer language.  Once you learn
 this new language, you can delegate mundane tasks
 to your partner (the computer), leaving more time 
@@ -68,12 +68,12 @@ creative activity.  Your computer or Personal Digital Assistant (PDA)
 usually contains many different programs from many different groups of 
 programmers, each competing for your attention and interest.  They try 
 their best to meet your needs and give you a great user experience in the
-process.   In some situations, when you choose a piece of software, the 
+5626 process.   In some situations, when you choose a piece of software, the 
 programmers are directly compensated because of your choice.
-5784 
+
 If we think of programs as the creative output of groups of programmers,
 perhaps the following figure is a more sensible version of our PDA:
-599  5894
+
 For now, our primary motivation is not to make money or please end users, but
 instead for us to be more productive in handling the data and 
 information that we will encounter in our lives.
@@ -85,41 +85,41 @@ toward developing programs for others.
 Computer hardware architecture
 
 Before we start learning the language we 
-speak to give instructions to computers to 
-develop software, we need to learn a small amount about 
+speak 9634 to 424 give 706 instructions to computers to 
+ develop software, we need to learn a small amount about 
 how computers are built.  
 
-Central Processing Unit (or CPU) is 
+9610 Central Processing Unit (or CPU) is 381
 the part of the computer that is built to be obsessed 
-5718 with what is next?  If your computer is rated 5507
-5591 at three Gigahertz, it means that the CPU will ask What next? 1029
+with what is next?  If your computer is rated
+at three Gigahertz, it means that the CPU will ask What next?
 three billion times per second.  You are going to have to 
-2726 learn how to talk fast to keep up with the CPU. 6526
-4449  1823
+learn how to talk fast to keep up with the CPU.
+
 Main Memory is used to store information
 that the CPU needs in a hurry.  The main memory is nearly as 
 fast as the CPU.  But the information stored in the main
-7338 memory vanishes when the computer is turned off. 3115
+memory vanishes when the computer is turned off.
 
-Secondary Memory is also used to store
+8286 Secondary Memory is also used to store
 information, but it is much slower than the main memory.
 The advantage of the secondary memory is that it can
 store information even when there is no power to the
 computer.  Examples of secondary memory are disk drives
 or flash memory (typically found in USB sticks and portable
 music players).
-7832  2395
+
 Input and Output Devices are simply our
 screen, keyboard, mouse, microphone, speaker, touchpad, etc.  
 They are all of the ways we interact with the computer.
-8902 
+
 These days, most computers also have a
 Network Connection to retrieve information over a network.
 We can think of the network as a very slow place to store and
 retrieve data that might not always be up.  So in a sense,
-the network is a slower and at times unreliable form of
-Secondary Memory.
-7904 
+the 6973 network 3534 is 1888 a slower and at times unreliable form of
+ Secondary Memory.
+
 While most of the detail of how these components work is best left 
 to computer builders, it helps to have some terminology
 so we can talk about these different parts as we write our programs.
@@ -130,23 +130,23 @@ and analyze the data you get from the solution.  As a programmer you will
 mostly be talking to the CPU and telling it what to 
 do next.  Sometimes you will tell the CPU to use the main memory,
 secondary memory, network, or the input/output devices.
-6015  7180
+
 You need to be the person who answers the CPU's What next? 
-question.  But it would be very uncomfortable to shrink you 
+7664 question.  But it would be very uncomfortable to shrink you 5328
 down to five mm  tall and insert you into the computer just so you 
 could issue a command three billion times per second.  So instead,
 you must write down your instructions in advance.
 We call these stored instructions a program and the act 
-4443 of writing these instructions down and getting the instructions to 
+of writing these instructions down and getting the instructions to 
 be correct programming.
 
 Understanding programming
-1791  5962
-In the rest of this book, we will try to turn you into a person
-who 3669 is 9352 skilled 2675 in the art of programming.  In the end you will be a 
- programmer --- perhaps not a professional programmer, but 
+
+9456 In the rest of this book, we will try to turn you into a person
+who is skilled in the art of programming.  In the end you will be a 
+programmer --- perhaps not a professional programmer, but 
 at least you will have the skills to look at a data/information
-analysis problem and develop a program to solve the problem.
+6727 analysis problem and develop a program to solve the problem. 5922
 
 problem solving
 
@@ -154,16 +154,16 @@ In a sense, you need two skills to be a programmer:
 
 First, you need to know the programming language (Python) -
 you need to know the vocabulary and the grammar.  You need to be able 
-to spell the words in this new language properly and know how to construct 
+6198 to spell the words in this new language properly and know how to construct 7222
 well-formed sentences in this new language.
 
 Second, you need to tell a story.  In writing a story,
 you combine words and sentences to convey an idea to the reader. 
 There is a skill and art in constructing the story, and skill in
-1824 story writing is improved by doing some writing and getting some
-feedback.  In programming, our program is the story and the 
+story 315 writing 995 is 3526 improved by doing some writing and getting some
+ feedback.  In programming, our program is the story and the 
 problem you are trying to solve is the idea.
-
+6315  8044
 itemize
 
 Once you learn one programming language such as Python, you will 
@@ -171,11 +171,11 @@ find it much easier to learn a second programming language such
 as JavaScript or C++.  The new programming language has very different 
 vocabulary and grammar but the problem-solving skills 
 will be the same across all programming languages.
-2483 
+
 You will learn the vocabulary and sentences of Python pretty quickly.
 It will take longer for you to be able to write a coherent program
 to solve a brand-new problem.  We teach programming much like we teach
-writing. 1283  7015 We 4811 start reading and explaining programs, then we write 
+writing. 5843  4489 We 8105 start reading and explaining programs, then we write 
  simple programs, and then we write increasingly complex programs over time.
 At some point you get your muse and see the patterns on your own
 and can see more naturally how to take a problem and 
@@ -183,7 +183,7 @@ write a program that solves that problem.  And once you get
 to that point, programming becomes a very pleasant and creative process.  
 
 We start with the vocabulary and structure of Python programs.  Be patient
-633 as the simple examples remind you of when you started reading for the first 8425
+8269 as the simple examples remind you of when you started reading for the first
 time. 
 
 Words and sentences
@@ -194,31 +194,31 @@ have very special meaning to Python.  When Python sees these words in
 a Python program, they have one and only one meaning to Python.  Later
 as you write programs you will make up your own words that have meaning to 
 you called variables.   You will have great latitude in choosing
-5901 your names for your variables, but you cannot use any of Python's 
+3724 your names for your variables, but you cannot use any of Python's 2849
 reserved words as a name for a variable.
-1641 2484 5837
+
 When we train a dog, we use special words like
 sit, stay, and fetch.  When you talk to a dog and
 don't use any of the reserved words, they just look at you with a 
-8408 quizzical look on their face until you say a reserved word. 6937
+quizzical look on their face until you say a reserved word.  
 For example, if you say, 
 I wish more people would walk to improve their overall health, 
 what most dogs likely hear is,
 blah blah blah walk blah blah blah blah.
 That is because walk is a reserved word in dog language.  
 
-2143 The reserved words in the language where humans talk to 
+The reserved words in the language where humans talk to 
 Python include the following:
 
 and       del       from      not       while    
 as        elif      global    or        with     
 assert    else      if        pass      yield    
-6540 break     except    import    print              
-class     exec      in        raise              
+break     except    import    print              
+8549 class     exec      in        raise 3972
 continue  finally   is        return             
 def       for       lambda    try
 
-9456 That is it, and unlike a dog, Python is already completely trained. 1182
+That is it, and unlike a dog, Python is already completely trained.
 When you say try, Python will try every time you say it without
 fail.
 
@@ -230,12 +230,12 @@ is that we can even tell it what to say by giving it a message in quotes:
 And we have even written our first syntactically correct Python sentence.
 Our sentence starts with the reserved word print followed
 by a string of text of our choosing enclosed in single quotes.
-
+5504 
 Conversing with Python
-4955 
+
 Now that we have a word and a simple sentence that we know in Python,
 we need to know how to start a conversation with Python to test 
-our new language skills.
+1187 our new language skills. 3097
 
 Before you can converse with Python, you must first install the Python
 software on your computer and learn how to start Python on your 
@@ -245,8 +245,8 @@ instructions and screencasts of setting up and starting Python
 on Macintosh and Windows systems.  At some point, you will be in 
 a terminal or command window and you will type python and 
 the Python interpreter will start executing in interactive mode
-2690 and appear somewhat as follows: 6228
-interactive mode
+and appear somewhat as follows:
+4298 interactive mode 4578
 
 The >>> prompt is the Python interpreter's way of asking you, What
 do you want me to do next?  Python is ready to have a conversation with
@@ -258,38 +258,38 @@ use when they land on a faraway planet and try to speak with the inhabitants
 of the planet:
 
 This is not going so well.  Unless you think of something quickly,
-787 the inhabitants of the planet are likely to stab you with their spears, 
+the inhabitants of the planet are likely to stab you with their spears, 
 put you on a spit, roast you over a fire, and eat you for dinner.
 
-At 171 this 5173 point, 5971 you should also realize that while Python 
- is amazingly complex and powerful and very picky about 
-the syntax you use to communicate with it, Python is 
+At this point, you should also realize that while Python 
+is 6918 amazingly 8392 complex 2440 and powerful and very picky about 
+ the syntax you use to communicate with it, Python is 
 not intelligent.  You are really just having a conversation
 with yourself, but using proper syntax.
 
-In 8062 a 3290 sense, 5289 when you use a program written by someone else
- the conversation is between you and those other
+In a sense, when you use a program written by someone else
+the conversation is between you and those other
 programmers with Python acting as an intermediary.  Python
 is a way for the creators of programs to express how the 
 conversation is supposed to proceed.  And
 in just a few more chapters, you will be one of those
 programmers using Python to talk to the users of your program.
-7302 4092 8443
-9330 Before we leave our first conversation with the Python 
-interpreter, you should probably know the proper way
-to say good-bye when interacting with the inhabitants
+
+Before we leave our first conversation with the Python 
+9271 interpreter, you should probably know the proper way 584
+7565 to say good-bye when interacting with the inhabitants
 of Planet Python:
-6009 1409 6442
+
 You will notice that the error is different for the first two
 incorrect attempts.   The second error is different because 
 if is a reserved word and Python saw the reserved word
-and thought we were trying to say something but got the syntax
-of the sentence wrong.
+and 3164 thought 7739 we 1483 were trying to say something but got the syntax
+ of the sentence wrong.
 
 Terminology: interpreter and compiler
 
-Python is a high-level language intended to be relatively
-straightforward for humans to read and write and for computers
+Python 8106 is 197 a 8452 high-level language intended to be relatively
+ straightforward for humans to read and write and for computers
 to read and process.  Other high-level languages include Java, C++,
 PHP, Ruby, Basic, Perl, JavaScript, and many more.  The actual hardware
 inside the Central Processing Unit (CPU) does not understand any
@@ -301,32 +301,32 @@ is represented all in zeros and ones.
 
 Machine language seems quite simple on the surface, given that there 
 are only zeros and ones, but its syntax is even more complex
-and far more intricate than Python.  So very few programmers ever write
-machine language.  Instead we build various translators to allow
+and 1209 far 9421 more 8077 intricate than Python.  So very few programmers ever write
+ 3721 machine language.  Instead we build various translators to allow
 programmers to write in high-level languages like Python or JavaScript
 and these translators convert the programs to machine language for actual
 execution by the CPU.
 
-6361 Since machine language is tied to the computer hardware, machine language
+Since machine language is tied to the computer hardware, machine language
 is not portable across different types of hardware.  Programs written in 
-high-level languages can be moved between different computers by using a 
+4234 high-level languages can be moved between different computers by using a 695
 different interpreter on the new machine or recompiling the code to create
-a machine language version of the program for the new machine.
-
-These programming language translators fall into two general categories:
+a 5815 machine 6312 language 2116 version of the program for the new machine.
+ 
+4894 These programming language translators fall into two general categories:
 (one) interpreters and (two) compilers.
 
 An interpreter reads the source code of the program as written by the
 programmer, parses the source code, and interprets the instructions on the fly.
 Python is an interpreter and when we are running Python interactively, 
-we can type a line of Python (a sentence) and Python processes it immediately
+3375 we can type a line of Python (a sentence) and Python processes it immediately 7193
 and is ready for us to type another line of Python.   
 
 Some of the lines of Python tell Python that you want it to remember some 
 value for later.   We need to pick a name for that value to be remembered and
-3622 we can use that symbolic name to retrieve the value later.  We use the 2641
+we can use that symbolic name to retrieve the value later.  We use the 
 term variable to refer to the labels we use to refer to this stored data.
-
+4022  9462
 In this example, we ask Python to remember the value six and use the label x
 so we can retrieve the value later.   We verify that Python has actually remembered
 the value using x and multiply
@@ -337,12 +337,12 @@ Even though we are typing these commands into Python one line at a time, Python
 is treating them as an ordered sequence of statements with later statements able
 to retrieve data created in earlier statements.   We are writing our first 
 simple paragraph with four sentences in a logical and meaningful order.
-
+5301 5739 4646
 It is the nature of an interpreter to be able to have an interactive conversation
 as shown above.  A compiler needs to be handed the entire program in a file, and then 
 it runs a process to translate the high-level source code into machine language
-and then the compiler puts the resulting machine language into a file for later
-execution.
+and 1160 then 6037 the 1222 compiler puts the resulting machine language into a file for later
+ execution.
 
 If you have a Windows system, often these executable machine language programs have a
 suffix of .exe or .dll which stand for executable and dynamic link
@@ -351,7 +351,7 @@ a file as executable.
 
 If you were to open an executable file in a text editor, it would look 
 completely crazy and be unreadable:
-8116 
+
 It is not easy to read or write machine language, so it is nice that we have
 compilers that allow us to write in high-level
 languages like Python or C.
@@ -362,23 +362,23 @@ it written in?  Is it written in a compiled language?  When we type
 python, what exactly is happening?
 
 The Python interpreter is written in a high-level language called C.  
-You can look at the actual source code for the Python interpreter by
-going to www.python.org and working your way to their source code.
-9705 So Python is a program itself and it is compiled into machine code. 6810
+You 6321 can 5593 look 8656 at the actual source code for the Python interpreter by
+ going to www.python.org and working your way to their source code.
+So Python is a program itself and it is compiled into machine code.
 When you installed Python on your computer (or the vendor installed it),
 you copied a machine-code copy of the translated Python program onto your
-system.   In Windows, the executable machine code for Python itself is likely
+7678 system.   In Windows, the executable machine code for Python itself is likely
 in a file.
 
-That is more than you really need to know to be a Python programmer, but
+5850 That is more than you really need to know to be a Python programmer, but
 sometimes it pays to answer those little nagging questions right at 
 the beginning.
 
 Writing a program
-6012 
+
 Typing commands into the Python interpreter is a great way to experiment 
 with Python's features, but it is not recommended for solving more complex problems.
-1331  4656
+
 When we want to write a program, 
 we use a text editor to write the Python instructions into a file,
 which is called a script.  By
@@ -386,16 +386,16 @@ convention, Python scripts have names that end with .py.
 
 script
 
-To execute the script, you have to tell the Python interpreter 
+966 To execute the script, you have to tell the Python interpreter 8181
 the name of the file.  In a Unix or Windows command window, 
 you would type python hello.py as follows:
 
 We call the Python interpreter and tell it to read its source code from
 the file hello.py instead of prompting us for lines of Python code
 interactively.
-
-You will notice that there was no need to have quit() at the end of
-the Python program in the file.   When Python is reading your source code
+830 1963 6277
+You 5595 will 4402 notice 7149 that there was no need to have quit() at the end of
+ the Python program in the file.   When Python is reading your source code
 from a file, it knows to stop when it reaches the end of the file.
 
 What is a program?
